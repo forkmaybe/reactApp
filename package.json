@@ -1,0 +1,30 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukegoss/reactApp.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Luke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukegoss/reactApp/issues"
+  },
+  "homepage": "https://github.com/lukegoss/reactApp#readme",
+  "dependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  }
+}
